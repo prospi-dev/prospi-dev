@@ -19,7 +19,7 @@ I am a **Full-Stack Developer** passionate about building efficient and scalable
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=336791)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-0a0a0a?style=flat-square&logo=microsoft-sql-server&logoColor=cc292b)
 
-### 💡 Aboput me
+### 💡 About me
 - 🔭 Currently working on improving my Full-Stack skills.
 - 👯 Looking to collaborate on interesting open-source projects.
 
