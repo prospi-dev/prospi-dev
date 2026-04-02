@@ -27,6 +27,5 @@ I am a **Full-Stack Developer** passionate about building efficient and scalable
 
 ### 📊 My Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prospi-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090a0f&title_color=00c3ff&text_color=ffffff&icon_color=ff00c8" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prospi-dev&theme=tokyonight&hide_border=true&background=090a0f&ring=ff00c8&fire=00c3ff&currStreakNum=ffffff" width="48%" />
 </div>
