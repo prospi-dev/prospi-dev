@@ -1,9 +1,9 @@
 # Hi, I'm Manuel Prosperi 👋
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0a0a0a?style=for-the-badge&logo=netlify&logoColor=00c3ff)](https://manuelprosperi-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00c3ff)](https://www.linkedin.com/in/manuel-prosperi-664425274/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00c3ff)](https://www.linkedin.com/in/manuel-prosperi-664425274/).
 
-I am a **Full-Stack Developer** passionate about building efficient and scalable applications, with a particular focus on both robust backend architectures and modern, dynamic user interfaces.
+**Full-Stack Developer** specialized in backend architecture built with Java, Spring Boot and .NET, and dynamic user interfaces construction with React.
 
 ### 🚀 Tech Stack
 
